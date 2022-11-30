@@ -1,6 +1,4 @@
-Local de entrega, portfólio no Github.
-
-Exercícios de Thread :
+*Exercícios de Thread*
 
 a) Implemente a interface Runnable;
 
