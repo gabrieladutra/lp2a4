@@ -45,7 +45,7 @@ public class AlunoJDBCDAO implements AlunoDAO{
 			AlunoJDBCDAO.conectaMySQL().close();
 			return true;
 		} catch (SQLException e) {
-			System.out.println("Erro! Não foi possível realizar a inserção: " + e);
+			System.out.println("Erro! Não foi possível inserir o Aluno: " + e);
 			return false;
 		}
 	}
