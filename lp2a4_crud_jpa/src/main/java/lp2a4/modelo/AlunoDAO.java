@@ -8,6 +8,7 @@ public interface AlunoDAO {
 	public boolean delete(String matricula);
 	
 	public static AlunoDAO getInstance() {
-		return new AlunoPropertiesDAO();
+		return new AlunoJDBCDAO();
+		
 	}	
 }
