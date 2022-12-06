@@ -6,4 +6,4 @@ insert into aluno (matricula, nome, endereco, data_ingresso) values ('SP10002', 
 
 insert into disciplinas_semestre(matricula, codigo) values ( 'SP98765', 'DCATV');
 insert into disciplinas_semestre(matricula, codigo) values ( 'SP10001', 'DCATV');
-insert into disciplinas_semestre(matricula, codigo) values ( 'SP10002', 'DCATV');linas_semestre(matricula, codigo) values ( 'SP10001', 'LP2A4');
+insert into disciplinas_semestre(matricula, codigo) values ( 'SP10002', 'DCATV');
