@@ -11,7 +11,7 @@ Repositório de resolução dos exercícios de Linguaguem de Programação II do
 
 ## 📝 Caderno 
 
-Link para as anotações no **[Notion](https://imaginary-learning-aaa.notion.site/LP2A4-Linguagem-e-Programa-o-2-d0d6f94201b54a85a0db31ad0b65cc54)**
+Link para as anotações no **[Notion](https://gabrieladutra.notion.site/LP2A4-Linguagem-e-Programa-o-2-d0d6f94201b54a85a0db31ad0b65cc54)**
 
 
 ## 🚀 Resolução das Atividades
