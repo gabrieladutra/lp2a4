@@ -18,7 +18,7 @@ Link para as anotações no **[Notion](https://imaginary-learning-aaa.notion.sit
 
 - **[Github 1:  Exercícios de Thread](https://github.com/gabrieladutra/lp2a4/tree/main/lp2a4/src/github1)**
 
-- **[Github 2:  CRUD MVC](https://github.com/gabrieladutra/lp2a4/tree/main/lp2a4/src/github1)**
+- **[Github 2:  CRUD MVC](https://github.com/gabrieladutra/lp2a4/tree/main/lp2a4_crud_jpa)**
 
 - **[Github 3:  Queries e JDBC](https://github.com/gabrieladutra/lp2a4/tree/main/lp2a4/src/github1)**
 
