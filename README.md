@@ -26,7 +26,7 @@ Link para as anotações no **[Notion](https://imaginary-learning-aaa.notion.sit
 
 - **[Atividade 2:  Problema N+1](https://github.com/gabrieladutra/lp2a4/tree/main/lp2a4/src/github1)**
 
-- **[Github 5: JPA - Many to Many](https://github.com/gabrieladutra/lp2a4/tree/main/lp2a4/src/github1)**
+- **[Github 5: JPA - Many to Many](https://github.com/gabrieladutra/lp2a4/tree/main/many_to_many/github5_many_to_many)**
 
 
 ## 🔧 Tecnologias utilizadas
