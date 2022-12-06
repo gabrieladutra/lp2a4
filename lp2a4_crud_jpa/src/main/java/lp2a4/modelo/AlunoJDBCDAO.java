@@ -97,7 +97,7 @@ public class AlunoJDBCDAO implements AlunoDAO{
 			AlunoJDBCDAO.conectaMySQL().close();
 			return true;
 		} catch (SQLException e) {
-			System.out.println("Erro! Não foi possível realizar a atualização: " + e);
+			System.out.println("Erro! Não foi possível atualizar: " + e);
 			return false;
 		}
 	}
