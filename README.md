@@ -22,19 +22,20 @@ Link para as anotações no **[Notion](https://imaginary-learning-aaa.notion.sit
 
 - **[Github 3:  Queries e JDBC](https://github.com/gabrieladutra/lp2a4/tree/main/lp2a4_crud_jpa/src/main/java/lp2a4/modelo)**
 
-- **[Github 4:  CRUD JPA](https://github.com/gabrieladutra/lp2a4/tree/main/lp2a4/src/github1)**
+- **[Github 4:  CRUD JPA](https://github.com/gabrieladutra/lp2a4/tree/main/lp2a4_crud_jpa/src/main/java/lp2a4/modelo)**
 
-- **[Atividade 2:  Problema N+1](https://github.com/gabrieladutra/lp2a4/tree/main/lp2a4/src/github1)**
+- **[Atividade 2:  Problema N+1](https://github.com/gabrieladutra/lp2a4/tree/main/nmais1/atividade2_nmais1)**
 
 - **[Github 5: JPA - Many to Many](https://github.com/gabrieladutra/lp2a4/tree/main/many_to_many/github5_many_to_many)**
 
 
-## 🔧 Tecnologias utilizadas
+## 🔧 Tecnologias/Conteúdos utilizados
 
 - **Linguagem Java** 
 - **Eclipse IDE**
 - **Apache Tomcat**
-- **JSP / JPA** 
+- **JPA - HIBERNATE** 
+-**JDBC / MYSQL**
 - **JDBC**
 
 
